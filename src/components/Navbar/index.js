@@ -55,7 +55,7 @@ return (
               </NavItem>
           </NavMenu>
           <NavBtn>
-              <NavBtnLink to ="benchmark">Benchmark</NavBtnLink>
+              <NavBtnLink to ="/bmpage">Benchmark</NavBtnLink>
           </NavBtn>
       </NavbarContainer>
     </Nav>

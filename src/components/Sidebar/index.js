@@ -14,7 +14,7 @@ const Sidebar = ({isOpen, toggle }) => {
                   <SidebarLink to="" onClick={toggle}> Github </SidebarLink>
               </SidebarMenu>
               <SideBtnWrap>
-                <SidebarRoute to="" onClick={toggle}> Benchmark </SidebarRoute>
+                <SidebarRoute to="/bmpage" onClick={toggle}> Benchmark </SidebarRoute>
               </SideBtnWrap>
           </SidebarWrapper>
       </SidebarContainer>
